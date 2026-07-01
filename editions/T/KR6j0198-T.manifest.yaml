@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0198/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0198/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 寶樓閣經梵字真言
+  identifiers:
+    krp: KR6j0198
+    cbeta: T19n1005B
+    cbeta_old_id: T19n1005B
+    authorityid: CA0000255
+    json_key: T1005B
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1005B.xml
+    old_id: T19n1005B
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0198_000-T.yaml, hash: 'sha256:fbd6a5c36955138471c7177cc8afff462d7c2976e3877665af2d6dc5963097ae'}
+  - {seq: 1, filename: KR6j0198_001-T.yaml, hash: 'sha256:f610e015203e14b904997804ce376809723a8fbd8eacf27734748cbf8b7ab1fd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0198_000-T.markers.yaml, hash: 'sha256:fb3a2a339a8bd90093c4729ce6cc6f343f19e0c71b089b9286d692db66095479'}
+  - {seq: 1, role: markers, filename: assets/KR6j0198_001-T.markers.yaml, hash: 'sha256:690b50b8678c0e57955c30a8f2287d2ef9054aabb4eca6a87f928d809fc56549'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0198_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 317
+  label: 寶樓閣經梵字真言
+  type: juan
+  level: 1
+hash: sha256:aa503090c7a2e436005541e6a3b7dfa110619073fde983f352c1e6c04976d8c5
