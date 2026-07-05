@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0198_000.yaml, hash: 'sha256:fbd6a5c36955138471c7177cc8afff462d7c2976e3877665af2d6dc5963097ae'}
-  - {seq: 1, filename: KR6j0198_001.yaml, hash: 'sha256:9ca819d3a002fbe2d22c763e7e3de52ea28991100536bdfe23d01bbc83d69933'}
+  - {seq: 1, filename: KR6j0198_001.yaml, hash: 'sha256:f610e015203e14b904997804ce376809723a8fbd8eacf27734748cbf8b7ab1fd'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0198_001.markers.yaml, hash: 'sha256:330dc142c0069da2e8998fe951c734bbfe451a2c481070582a3b07639a2c2972'}
+  - {seq: 0, role: markers, filename: assets/KR6j0198_000.markers.yaml, hash: 'sha256:d53df57caf049761d380ac988d99ea6c8286dd130895839ce72be2008987ca27'}
+  - {seq: 1, role: markers, filename: assets/KR6j0198_001.markers.yaml, hash: 'sha256:eccf09122a514a7f251fa78ac3e167392e6b80490d0773e33698e1751a3d3a45'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 寶樓閣經梵字真言
   type: juan
   level: 1
-hash: sha256:753879e73972d304e40480652bbf3225cf4d3d46c11724d517415be02443d9ca
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ea83823eb209ca1786d9ddfff99210b0b3cfb474071372c2ef32eb55e7a16f42
 editions:
 - short: T
