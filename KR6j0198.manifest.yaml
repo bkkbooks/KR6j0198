@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0198/v1
 canonical_location: https://kanripo.org/bkk/KR6j0198/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 寶樓閣經梵字真言
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0198_000.yaml, hash: 'sha256:fbd6a5c36955138471c7177cc8afff462d7c2976e3877665af2d6dc5963097ae'}
-  - {seq: 1, filename: KR6j0198_001.yaml, hash: 'sha256:f610e015203e14b904997804ce376809723a8fbd8eacf27734748cbf8b7ab1fd'}
+  - {seq: 1, filename: KR6j0198_001.yaml, hash: 'sha256:9ca819d3a002fbe2d22c763e7e3de52ea28991100536bdfe23d01bbc83d69933'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0198_000.markers.yaml, hash: 'sha256:d53df57caf049761d380ac988d99ea6c8286dd130895839ce72be2008987ca27'}
-  - {seq: 1, role: markers, filename: assets/KR6j0198_001.markers.yaml, hash: 'sha256:eccf09122a514a7f251fa78ac3e167392e6b80490d0773e33698e1751a3d3a45'}
+  - {seq: 1, role: markers, filename: assets/KR6j0198_001.markers.yaml, hash: 'sha256:b6130b74d29af638a4845389c10cf1aecb89207682a1ae3c8543b3c4ca2774b0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 寶樓閣經梵字真言
   type: juan
   level: 1
-hash: sha256:ea83823eb209ca1786d9ddfff99210b0b3cfb474071372c2ef32eb55e7a16f42
+hash: sha256:eb90ce0b3751decc5ecdfaad8d4d7443fd7178087b5bfc523e572cb9c083fd99
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
